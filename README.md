@@ -54,6 +54,9 @@ pip install -r requirements.txt
 python init_db.py
 python main.py
 ```
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Database Schema
 
