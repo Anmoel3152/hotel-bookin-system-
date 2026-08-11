@@ -21,6 +21,9 @@ A simple Hotel Booking System built with Python, PyQt5 and SQLite3.
 - ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request or open an Issue for suggestions and bug reports.
+## Project Status
+
+This project is currently under active development. New updates and bug fixes are pushed regularly.
 
 ## Project Structure
 
