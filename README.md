@@ -68,6 +68,13 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 | username | TEXT UNIQUE |
 | password | TEXT |
 | email | TEXT UNIQUE |
+## Database Structure
+
+The database includes the following main entities:
+- Users: Stores user profiles and authentication data.
+- Rooms: Holds room numbers, types, status, and nightly rates.
+- Bookings: Tracks check-in/check-out dates, total cost, and booking statuses.
+- Payments: Records transaction history and payment methods.
 
 ### rooms
 
