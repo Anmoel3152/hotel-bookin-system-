@@ -18,6 +18,9 @@ A simple Hotel Booking System built with Python, PyQt5 and SQLite3.
 - Frontend: HTML5, CSS3, JavaScript
 - Backend: Node.js / Python / PHP (Adjust based on your project)
 - Database: MySQL / PostgreSQL / MongoDB
+- ## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request or open an Issue for suggestions and bug reports.
 
 ## Project Structure
 
