@@ -24,6 +24,12 @@ A simple Hotel Booking System built with Python, PyQt5 and SQLite3.
 - `hotel_booking.db` - SQLite database
 
 ## Installation
+## Key Features
+
+- User Authentication: Secure registration and login for guests and admins.
+- Room Browsing: View available rooms with details, pricing, and amenities.
+- Online Booking: Easy step-by-step room reservation process.
+- Admin Dashboard: Manage bookings, update room statuses, and view customer reports.
 
 ```bash
 pip install -r requirements.txt
